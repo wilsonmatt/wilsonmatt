@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+
+- 🔭 I’m currently looking for a Frontend Developer position but working on my portfolio in the meantime.
+- 🌱 I’m currently learning Github Actions and CI/CD
+- 👯 I’m looking to collaborate on Web Apps(SPA), Angular and React
+- 🤔 I’m looking for help with AI, Machine Learning, Neuro Networks and etc.
+- 💬 Ask me about anything Frontend / UI/UX
+- 📫 How to reach me: [ wilsonmj92@hotmail.com ]
