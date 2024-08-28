@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 ### Other Projects
 - Resume (AWS Amplify CI/CD) 
     https://main.d1jlza09m8vqyv.amplifyapp.com/
+
+- Resume (Material UI version) 
+    https://master.d169f48scckgo5.amplifyapp.com/resume
