@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [ wilsonmj92@hotmail.com ]
 
 ### Other Projects
+- Star Wars Vehicle Shopping Cart (Demo), built with Angular, Signals
+    https://wilsonmatt.github.io/angular-signals/
+
 - Resume (AWS Amplify CI/CD) 
     https://main.d1jlza09m8vqyv.amplifyapp.com/
 
