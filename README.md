@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### About Me
 
 - 🔭 I’m currently looking for a Frontend Developer position but working on my portfolio in the meantime.
-- 🌱 I’m currently learning Next.js, OAuth, Shadcn, Radix UI, Angular Signals, Github Actions and CI/CD
+- 🌱 I’m currently learning Next.js, OAuth(Github), Auth.js, Shadcn, Radix UI, Angular Signals, Github Actions and CI/CD
 - 👯 I’m looking to collaborate on Web Apps(SPA), Angular and React
 - 🤔 I’m looking for help with AI, Machine Learning, Neuro Networks and etc.
 - 💬 Ask me about anything Frontend / UI/UX
