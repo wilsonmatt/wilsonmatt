@@ -23,14 +23,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Apps(SPA), Angular and React
 - 🤔 I’m looking for help with AI, Machine Learning, Neuro Networks and etc.
 - 💬 Ask me about anything Frontend / UI/UX
-- 📫 How to reach me: [ wilsonmj92@hotmail.com ]
+- 📫 How to reach me: [n/a]
 
 ### Other Projects
 - Star Wars Vehicle Shopping Cart (Demo), built with Angular, Signals
     https://wilsonmatt.github.io/angular-signals/
 
-- Resume (AWS Amplify CI/CD) 
-    https://main.d1jlza09m8vqyv.amplifyapp.com/
-
+- Resume (AWS Amplify CI/CD)
+    na
 - Resume (Material UI version) 
-    https://master.d169f48scckgo5.amplifyapp.com/resume
+    na
