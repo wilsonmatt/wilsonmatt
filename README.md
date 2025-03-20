@@ -30,6 +30,6 @@ Here are some ideas to get you started:
     https://wilsonmatt.github.io/angular-signals/
 
 - Resume (AWS Amplify CI/CD)
-    https://main.d1jlza09m8vqyv.amplifyapp.com/
+    na
 - Resume (Material UI version) 
     na
